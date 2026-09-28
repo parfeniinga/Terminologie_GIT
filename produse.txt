@@ -1,0 +1,10 @@
+Produsele magazinului
+
+Pâine - 8 lei
+Lapte - 18 lei
+Mere - 15 lei
+Brânză - 65 lei
+Ciocolată - 25 lei
+Suc de mere - 30 lei
+Cafea - 90 lei
+Orez - 22 lei
